@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pindang-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="pindang-cloud" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pindang-cloud" alt="pindang-cloud" /></a> </p>
-<img src="https://giphy.com/clips/baby-cartoon-calm-C2xMVZ1lAU4MHbCRlD">
+
+![alt text](http://https://giphy.com/clips/baby-cartoon-calm-C2xMVZ1lAU4MHbCRlD)
 
 - 🔭 I’m currently working on **JVPInvoice**
 

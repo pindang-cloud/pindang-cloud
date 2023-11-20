@@ -6,13 +6,9 @@
 <p align="center"><img src="https://media.giphy.com/media/TRebCjNbc4dIA/giphy.gif" width="100%" height=500px"/>
 </p>
 
-- 🔭 I’m currently working on **JVPInvoice**
-
 - 🌱 I’m currently learning **Laravel, Livewire, Vue js**
 
 - 👯 I’m looking to collaborate on **JVPInvoice**
-
-- 🤝 I’m Colaborate with my friend **@npc-123**
 
 - 💬 Ask me about **Laravel, Livewire**
 

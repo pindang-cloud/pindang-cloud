@@ -26,8 +26,4 @@
 <div align="center">
 </div>
 </br>
-    <p>My Project </p>
-  <p>https://invoice.prodigit.id/login</p>
-    username : Admin
-    pass : 1q2w3e4r5t
 </div>

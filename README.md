@@ -27,6 +27,9 @@ Hi there! 👋 I'm a passionate learner and developer who loves to explore the w
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pindang-cloud&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 
 </div>
+<p align="center">
+  <img src="https://github.com/pindang-cloud/pindang-cloud/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pindang-cloud&icon=2&color=13)](https://visitcount.itsvg.in)
